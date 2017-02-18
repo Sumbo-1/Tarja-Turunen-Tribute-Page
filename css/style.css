@@ -36,7 +36,7 @@ p {
 .header {
   height: 580px;
   max-width: 100%;
-  background-image: url(http://gdurl.com/tEeO);
+  background-image: url(../images/header.jpg);
   background-size: cover;
   background-position: top center;
   position: relative;
@@ -84,7 +84,7 @@ p {
   max-width: 100%;
   margin: 4em auto 7em;
   padding: 5em 0;
-  background-image: url(http://gdurl.com/oxde);
+  background-image: url(../images/lyrics.jpg);
   background-size: conver;
   background-position: right center;
   background-repeat: no-repeat;
@@ -101,9 +101,9 @@ p {
   padding: 1em 0 0;
   color: #fff;
   font-size: 1.2em;
-  
+
 }
-.song-name { 
+.song-name {
   color: #fff;
   position: relative;
   top: 0;
@@ -174,7 +174,7 @@ p {
   display: block;
   max-width: 200px;
   margin: 1.5em auto;
-  padding: 0.3em 1em; 
+  padding: 0.3em 1em;
   background-color: #fff;
   color: #4c6a92;
   border-radius: 5px;
@@ -198,7 +198,7 @@ footer h5 {
 }
 
 /* Media Queries */
-@media screen and (min-width: 320px) 
+@media screen and (min-width: 320px)
               and (max-width: 1024px){
   h1 {
     font-size: 3em;
@@ -242,11 +242,11 @@ footer h5 {
     left: 7%;
   }
   .albums-col {
-   margin-top: 2em; 
+   margin-top: 2em;
    }
 }
 /* Media Queries Portrait */
-@media screen and (min-width: 320px) 
+@media screen and (min-width: 320px)
               and (max-width: 640px)
               and (orientation: portrait) {
 
